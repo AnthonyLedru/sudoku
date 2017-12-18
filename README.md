@@ -4,4 +4,4 @@ Jeu du Sudoku
 
 ![no-text](https://github.com/AnthonyLedru/sudokuFX/blob/master/sudoku.png)
 
-Ps : Cette version est un peu vieille en date, il s'agit d'un projet de 2ème année de DUT et de nombreux bugs sont présents, le code est parfois un peu "tiré par les cheveux", je n'y ai pas retouché depuis !
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Cette version est un peu vieille en date, il s'agit d'un projet de 2ème année de DUT et de nombreux bugs sont présents, le code est parfois un peu "tiré par les cheveux", je n'y ai pas retouché depuis !'
